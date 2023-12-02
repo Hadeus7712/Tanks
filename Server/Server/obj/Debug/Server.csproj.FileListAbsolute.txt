@@ -1,0 +1,60 @@
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\Server.exe.config
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\Server.exe
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\Server.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\obj\Debug\Server.exe
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\obj\Debug\Server.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.Desktop.dll
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.Direct2D1.dll
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.dll
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.DXGI.dll
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.Mathematics.dll
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\System.Buffers.dll
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\System.Memory.dll
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\System.Numerics.Vectors.dll
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.Desktop.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.Desktop.xml
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.Direct2D1.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.Direct2D1.xml
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.DXGI.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.DXGI.xml
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.Mathematics.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\SharpDX.Mathematics.xml
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\System.Buffers.xml
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\System.Memory.xml
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\System.Numerics.Vectors.xml
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VS_PROJECT\PSP_kyrsavaya\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\Server.exe.config
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\Server.exe
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\Server.pdb
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.Desktop.dll
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.dll
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.DXGI.dll
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\System.Buffers.dll
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\System.Memory.dll
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.pdb
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.Desktop.pdb
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.Desktop.xml
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.DXGI.xml
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\System.Buffers.xml
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\System.Memory.xml
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.exe
+C:\Users\7712\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.pdb

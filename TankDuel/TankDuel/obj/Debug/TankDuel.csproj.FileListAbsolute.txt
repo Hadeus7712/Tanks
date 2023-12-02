@@ -1,0 +1,66 @@
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\TankDuel.exe.config
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\TankDuel.exe
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\TankDuel.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.Desktop.dll
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.Direct2D1.dll
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.DirectInput.dll
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.dll
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.DXGI.dll
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.Mathematics.dll
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.Desktop.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.Desktop.xml
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.Direct2D1.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.Direct2D1.xml
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.DirectInput.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.DirectInput.xml
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.DXGI.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.DXGI.xml
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.Mathematics.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\bin\Debug\SharpDX.Mathematics.xml
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\MainWindow.g.cs
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\App.g.cs
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel_MarkupCompile.cache
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel_MarkupCompile.lref
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\MainWindow.baml
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel.g.resources
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel.Properties.Resources.resources
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel.csproj.GenerateResource.cache
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel.csproj.CoreCompileInputs.cache
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel.csproj.CopyComplete
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel.exe
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel.pdb
+E:\VS_PROJECT\PSP_kyrsavaya\TankDuel\TankDuel\obj\Debug\TankDuel.csproj.AssemblyReference.cache
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\TankDuel.exe.config
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\TankDuel.exe
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\TankDuel.pdb
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.Desktop.dll
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.dll
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.DXGI.dll
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.pdb
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.Desktop.pdb
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.Desktop.xml
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.DXGI.xml
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel.csproj.AssemblyReference.cache
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\MainWindow.g.cs
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\App.g.cs
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel_MarkupCompile.cache
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel_MarkupCompile.lref
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\MainWindow.baml
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel.g.resources
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel.Properties.Resources.resources
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel.csproj.GenerateResource.cache
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel.csproj.CoreCompileInputs.cache
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel.csproj.CopyComplete
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel.exe
+C:\Users\7712\Desktop\Новая папка (3)\TankDuel\TankDuel\obj\Debug\TankDuel.pdb
